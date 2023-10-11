@@ -9,9 +9,6 @@ The README Generator is an application that generates a README file named "gener
 To install the project, clone the repository onto your PC. Make sure to have Node.JS installed. The repository should have inquirer package installed already, but if it is not, run the command "npm install"
 Enter the directory that has the cloned repository type "node index.js"
 
-To access the webpage, click the link below:
-
-https://phipham0.github.io/challenge-9-readme-generator/
 
 ## Usage
 
@@ -19,6 +16,8 @@ To start, run the command "node index.js"
 A series of 9 prompts will then show that the user can answer. Anything that the user inputs will show on the README file that is generated. To enter an answer, the user will press the "Enter" key.
 When the user is asked to choose a license, the answer can be selected using the up and down arrow keys and pressing "Enter." After all the prompts are run through, "generatedREADME.md" will be made
 and will be populated based on the answers chosen.
+
+https://youtu.be/eGd5-WUZnDc?si=d7_15Qo67LHdBLKk
 
 **SCREENSHOT**
 ![readme](./assets/screencap.png)

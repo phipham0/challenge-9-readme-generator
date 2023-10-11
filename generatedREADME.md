@@ -1,6 +1,6 @@
-# asd [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Super Cool Project [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  asd
+  This is a decription!
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -9,13 +9,13 @@
   - [License](#license)
   - [Questions](#questions)
   ## Installation
-  asd
+  Here are the installation instructions
   ## Usage
-  asd
+  Usage information as well!
   ## Contributing Guidelines
-  asd
+  Here comes the contribution guidelines
   ## Test Instructions
-  asd
+  Test instructions...
   ## License
   
     Copyright 2023 Phi Pham
@@ -27,8 +27,8 @@
     THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     
   ## Questions?
-  My GitHub: https://github.com/asd
+  My GitHub: https://github.com/phipham0
 
-  My Email: asd
+  My Email: phamphizzle@gmail.com
 
 
